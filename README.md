@@ -1,4 +1,4 @@
-# DSC510-personal
+# DSC510-Introduction to programming using Python
 This is a archive of all python programs I created as part of assignments required in DSC 510 class
 this class covers all basic python program skills:
 •	Create a Python Application which asks the user for their zip code or city (Your program must perform both a city and a zip lookup). You must ask the user which they want to perform with each iteration of the program.
