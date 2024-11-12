@@ -14,5 +14,7 @@ this class covers all basic python program skills:
 
 How to 
 1.	Use Python 3 and latest packages
-2.	Use try blocks when establishing connections to the webservice. You must print a message to the user indicating whether or not the connection was successful.
-3.	use proper coding convention including proper variable names (See PEP8).
+2.	Open Python terminal by typing Jupyter notebook, remember to save the file, using export to html to export the result
+3.	use Anacondo package
+4.	Use try blocks when establishing connections to the webservice. You must print a message to the user indicating whether or not the connection was successful.
+5.	use proper coding convention including proper variable names (See PEP8).
